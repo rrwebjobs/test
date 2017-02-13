@@ -1,3 +1,4 @@
+--find-links wheelhouse
 pandas
 numpy
 tqdm
